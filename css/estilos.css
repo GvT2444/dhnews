@@ -1,17 +1,26 @@
 
+body{
+    background-color: brown;
+    font-family: 'rajdhani', sans-serif;
+}
 header{
    color: rgb(197, 22, 22);
-   text-shadow: rgb(255, 0, 0);
+ font-size: 44px;
 }
 main{
-    width: 70%;
-    margin: 50px 15% 50px 15%;
-    
+    background-color:#f5e3e0 ;
+    width: 960px;
+    margin: 50px auto 50px auto;
+    padding: 50px;
+    border-radius: 30px;
 }
-img{
-    width: 100%;
-    max-width: 800px;
-    margin:0 auto 0 auto;
-    display : block
+footer img{
+    width: 32px;
+    margin: 0 10px;
 
+}
+footer{
+    width: 100%;
+    text-align:center;
+    margin: 0 auto 50px auto;
 }

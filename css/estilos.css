@@ -1,0 +1,11 @@
+main{
+    width: 70%;
+    margin: 50px 15% 50px 15%;
+}
+img{
+    width: 100%;
+    max-width: 800px;
+    margin:0 auto 0 auto;
+    display : block
+
+}
